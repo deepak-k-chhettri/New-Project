@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CountSort",
+            "request": "launch",
+            "mainClass": "arrays.sorting.CountSort",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "arrays.sorting.InsertionSort",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
             "name": "Launch SelectionSort",
             "request": "launch",
             "mainClass": "arrays.sorting.SelectionSort",
