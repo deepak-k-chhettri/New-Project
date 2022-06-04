@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "arrays.sorting.SelectionSort",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSortOptimized",
+            "request": "launch",
+            "mainClass": "arrays.sorting.BubbleSortOptimized",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "arrays.sorting.BubbleSort",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch AggressiveCows",
+            "request": "launch",
+            "mainClass": "arrays.AggressiveCows",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "arrays.BinarySearch",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuyAndSell",
+            "request": "launch",
+            "mainClass": "arrays.BuyAndSell",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConsecutiveOnes",
+            "request": "launch",
+            "mainClass": "arrays.ConsecutiveOnes",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstAndLastOccurence",
+            "request": "launch",
+            "mainClass": "arrays.FirstAndLastOccurence",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinionChefAndBananas",
+            "request": "launch",
+            "mainClass": "arrays.MinionChefAndBananas",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberOfOccurences",
+            "request": "launch",
+            "mainClass": "arrays.NumberOfOccurences",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInsertPosition",
+            "request": "launch",
+            "mainClass": "arrays.SearchInsertPosition",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchMatrix",
+            "request": "launch",
+            "mainClass": "arrays.SearchMatrix",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareRootBinarySearch",
+            "request": "launch",
+            "mainClass": "arrays.SquareRootBinarySearch",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        }
+    ]
+}
