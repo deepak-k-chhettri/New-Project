@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ClosestSum",
+            "request": "launch",
+            "mainClass": "arrays.twopointer.ClosestSum",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortedElementInBetween",
+            "request": "launch",
+            "mainClass": "arrays.twopointer.SortedElementInBetween",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestPair",
+            "request": "launch",
+            "mainClass": "arrays.twopointer.LargestPair",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSumProblem",
+            "request": "launch",
+            "mainClass": "arrays.twopointer.TwoSumProblem",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
             "name": "Launch CountSort",
             "request": "launch",
             "mainClass": "arrays.sorting.CountSort",
