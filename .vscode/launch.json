@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SortBinaryArray",
+            "request": "launch",
+            "mainClass": "arrays.sorting.SortBinaryArray",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortColors",
+            "request": "launch",
+            "mainClass": "arrays.sorting.SortColors",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lambda",
+            "request": "launch",
+            "mainClass": "interfaces.Lambda",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SaySomething",
+            "request": "launch",
+            "mainClass": "interfaces.SaySomething",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
             "name": "Launch ClosestSum",
             "request": "launch",
             "mainClass": "arrays.twopointer.ClosestSum",
