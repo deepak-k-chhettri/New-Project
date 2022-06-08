@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PrintBinary",
+            "request": "launch",
+            "mainClass": "recursion.PrintBinary",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintWords",
+            "request": "launch",
+            "mainClass": "recursion.PrintWords",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckPrime",
+            "request": "launch",
+            "mainClass": "recursion.CheckPrime",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalToBinary",
+            "request": "launch",
+            "mainClass": "recursion.DecimalToBinary",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfDigits",
+            "request": "launch",
+            "mainClass": "recursion.SumOfDigits",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerOfTwo",
+            "request": "launch",
+            "mainClass": "recursion.PowerOfTwo",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "recursion.Fibonacci",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exponential",
+            "request": "launch",
+            "mainClass": "recursion.Exponential",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoOfWaysToReach",
+            "request": "launch",
+            "mainClass": "recursion.NoOfWaysToReach",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniqueIntersection",
+            "request": "launch",
+            "mainClass": "arrays.UniqueIntersection",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllocateBooks",
+            "request": "launch",
+            "mainClass": "arrays.AllocateBooks",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "arrays.RemoveDuplicates",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindTripletSum",
+            "request": "launch",
+            "mainClass": "arrays.FindTripletSum",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstRepeatingElement",
+            "request": "launch",
+            "mainClass": "arrays.FirstRepeatingElement",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
             "name": "Launch SortBinaryArray",
             "request": "launch",
             "mainClass": "arrays.sorting.SortBinaryArray",

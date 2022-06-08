@@ -4,23 +4,30 @@ import java.util.Scanner;
 
 public class SortColors {
     public static void sortColors(int[] nums) {
-        int n = nums.length;
-        int[]arr = new int[3];
-        for(int i=0;i<n;i++){
-            arr[nums[i]]++;
-        }
-        int j=0;
-        for(int i=0;i<3;i++){
-            while(arr[i]-->0 && j<n){
-                nums[j] = i;
-                j++;
+        int i=-1;
+        int j=nums.length;
+        int k = 0;
+        while(k<j){
+            if(nums[k]==0){
+                i++;
+                int temp = nums[i];
+                nums[i] = nums[k];
+                nums[k] = temp;
+                k++;
+            }
+            else if(nums[k]==2){
+                j--;
+                int temp = nums[j];
+                nums[j] = nums[k];
+                nums[k] = temp; 
+            }
+            else{
+                k++;
             }
         }
-        System.out.print("[");
-        for(int i=0;i<n-1;i++){
-            System.out.print(nums[i]+",");
+        for(int n:nums){
+            System.out.print(n+" ");
         }
-        System.out.print(nums[n-1]+"]");
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
