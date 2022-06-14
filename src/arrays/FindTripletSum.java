@@ -22,17 +22,19 @@ public class FindTripletSum {
         }
         return flag;
     }
-    public static boolean find3Numbers(int A[], int n, int X) { 
+    public static int solve(int A[], int n, int X) { 
     
        // Your code Here
+        if(n<3)return 0;
+        int cnt = 0;
         Arrays.sort(A);
         for(int i=0;i<n-2;i++){
             int target = X-A[i];
             if(twoSum(A,n,i,target)){
-                return true;
+                cnt++;
             }
         }
-        return false;
+        return cnt;
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -42,7 +44,7 @@ public class FindTripletSum {
             arr[i] = sc.nextInt();
         }
         int X = sc.nextInt();
-        System.out.println(find3Numbers(arr, n, X));
+        System.out.println(solve(arr, n, X));
         sc.close();
     }
 }

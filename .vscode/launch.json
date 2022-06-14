@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LongestArrayWithMultipleOfK",
+            "request": "launch",
+            "mainClass": "hashing.LongestArrayWithMultipleOfK",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumConsecutiveIntegers",
+            "request": "launch",
+            "mainClass": "hashing.MaximumConsecutiveIntegers",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestArrayWith0Sum",
+            "request": "launch",
+            "mainClass": "hashing.LargestArrayWith0Sum",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpanOfStock",
+            "request": "launch",
+            "mainClass": "stacks.SpanOfStock",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddNumbers",
+            "request": "launch",
+            "mainClass": "recursion.AddNumbers",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "arrays.sorting.QuickSort",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintPossibleCombinations",
+            "request": "launch",
+            "mainClass": "recursion.PrintPossibleCombinations",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinChange",
+            "request": "launch",
+            "mainClass": "recursion.CoinChange",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "arrays.sorting.MergeSort",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeArrays",
+            "request": "launch",
+            "mainClass": "arrays.MergeArrays",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetsOfSet",
+            "request": "launch",
+            "mainClass": "recursion.SubsetsOfSet",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch TilesProblem",
+            "request": "launch",
+            "mainClass": "recursion.TilesProblem",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch nCr",
+            "request": "launch",
+            "mainClass": "recursion.nCr",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Knapsack",
+            "request": "launch",
+            "mainClass": "recursion.Knapsack",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniquePathsWithObstacles",
+            "request": "launch",
+            "mainClass": "recursion.UniquePathsWithObstacles",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Josephus",
+            "request": "launch",
+            "mainClass": "recursion.Josephus",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniquePaths",
+            "request": "launch",
+            "mainClass": "recursion.UniquePaths",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "recursion.TowerOfHanoi",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Combination",
+            "request": "launch",
+            "mainClass": "arrays.Combination",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
+            "name": "Launch LetterCasePermutation",
+            "request": "launch",
+            "mainClass": "recursion.LetterCasePermutation",
+            "projectName": "Competitive Programming BootCamp_d08243a4"
+        },
+        {
+            "type": "java",
             "name": "Launch PrintBinary",
             "request": "launch",
             "mainClass": "recursion.PrintBinary",
